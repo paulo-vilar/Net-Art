@@ -12,7 +12,7 @@ function resize()
 }
 
 //para a posição do rato
-var pos = {x:0,y:0};
+var pos = {x: 0 , y: 0};
 
 function setPosition(e)
 {
